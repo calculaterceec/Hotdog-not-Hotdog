@@ -6,4 +6,4 @@ import pickle
 
 st.title("Our Hotdog Classifier App")
 st.header("It classifies an image as a hotdog or not a hotdog.")
-st.subheader("Cool, huh?")
+st.subheader("Cool, huh? Let's try to change something to see if it goes through.")
